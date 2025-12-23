@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Python Bytecode
+__pycache__/
+*.pyc
+
+# Mac System Files
+.DS_Store
+
+# Logs
+*.log
+
+# Archives (created by Agatha)
+*.zip
